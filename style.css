@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+header h1{
+    text-align: center;
+    color: rgb(26, 2, 2);
+}
+.header-block h2{
+    width: 85px;
+    color: rgba(0, 0, 0, 0.76);
+    margin-top: 50px;
+    padding: 10px;
+    padding-left: 10px;
+    background-image: linear-gradient(red,rgb(78, 199, 78),rgb(252, 255, 73));
+    border-radius: 5px;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(78, 199, 78);
+    
+}
+th{
+    background-color: rgb(0, 0, 0);
+    color: tomato;
+}
+th,td{
+    border: 2px solid rgb(255, 243, 70);
+    padding: 0 10px;
+    
+}
